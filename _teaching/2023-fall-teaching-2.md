@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2023-fall-teaching-2
 venue: "BRAC University, Department of Computer Science and Engineering"
-date: 2023-06
+date: 2023-06-01
 location: "Dhaka, Bangladesh"
 ---
 
