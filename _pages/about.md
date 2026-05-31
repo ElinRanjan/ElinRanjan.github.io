@@ -6,7 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 Welcome! I am a PhD student in Electrical and Computer Engineering at NC State University and a research intern at Pacific Northwest National Laboratory (PNNL).
 
 My research focuses on quantum computing, quantum algorithms, and quantum chemistry. I am particularly interested in:
