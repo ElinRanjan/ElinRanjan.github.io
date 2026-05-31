@@ -1,14 +1,8 @@
 ---
-title: "Paper Title Number 2"
+title: "Hybrid continuous-discrete-variable quantum computing: a guide to utility"
 collection: publications
 category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
-paperurl: 'https://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+excerpt: "Quantum computing has traditionally centered around the discrete variable paradigm. A new direction is the inclusion of continuous variable modes and the consideration of a hybrid continuous-discrete approach to quantum computing. In this paper, we discuss some of the advantages of this modality, and lay out a number of potential applications that can make use of it; these include applications from physics, chemistry, and computer science. We also briefly overview some of the algorithmic and software considerations for this new paradigm."
+date: 2025-11-17
+paperurl: 'https://arxiv.org/abs/2511.13882'
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
