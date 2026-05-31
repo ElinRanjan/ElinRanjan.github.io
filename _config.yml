@@ -234,9 +234,11 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
+    published: false
   guide:
     output: true
     permalink: /:collection/:path/
+    published: false
 
 
 # These settings control how pages and collections are included in the site
