@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "Contractual Lecturer (Part-time)"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "BRAC University, Department of Computer Science and Engineering"
+date: 2023-24
+location: "Dhaka, Bangladesh"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+I instructed in several theory and sessional courses, namely Digital Electronics and Pulse Techniques, Electronic Devices and Circuits, and Circuits and Electronics.
