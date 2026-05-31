@@ -1,6 +1,7 @@
 ---
 title: "Contractual Lecturer (Part-time)"
 collection: teaching
+type: "Undergraduate course"
 permalink: /teaching/2023-fall-teaching-2
 venue: "BRAC University, Department of Computer Science and Engineering"
 location: "Dhaka, Bangladesh"
