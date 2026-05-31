@@ -26,6 +26,7 @@ author:
   avatar           : "Headshot.png"
   name             : "About Me"
   pronouns         : "he/him"  
+  bio              : "PhD student in Electrical and Computer Engineering at NC State University. Research interests include quantum computational chemistry, quantum algorithms, quantum information science, and hybrid CV-DV quantum computing."
   location         : "Raleigh, NC, US"
   employer         : "NC State University"
   uri              : # URL
