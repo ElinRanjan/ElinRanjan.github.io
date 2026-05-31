@@ -1,14 +1,11 @@
 ---
-title: "Paper Title Number 1"
+title: "Currency Arbitrage Optimization using Quantum Annealing, QAOA and Constraint Mapping"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 'Currency arbitrage capitalizes on price discrepancies in currency exchange rates between markets to produce profits with minimal risk. By employing a combinatorial optimization problem, one can ascertain optimal paths within directed graphs, thereby facilitating the efficient identification of profitable trading routes. This research investigates the methodologies of quantum annealing and gate-based quantum computing in relation to the currency arbitrage problem. In this study, we implement the Quantum Approximate Optimization Algorithm (QAOA) utilizing Qiskit version 1.2. In order to optimize the parameters of QAOA, we perform simulations utilizing the AerSimulator and carry out experiments in simulation. Furthermore, we present an NchooseK-based methodology utilizing D-Wave's Ocean suite. This methodology enables a comparison of the effectiveness of quantum techniques in identifying optimal arbitrage paths. The results of our study enhance the existing literature on the application of quantum computing in financial optimization challenges, emphasizing both the prospective benefits and the present limitations of these developing technologies in real-world scenarios.'
+date: 2025-02-08
+venue: '2025 Quantum Computing Applications in Economics and Finance Conference'
+paperurl: 'https://arxiv.org/abs/2502.15742'
 ---
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
