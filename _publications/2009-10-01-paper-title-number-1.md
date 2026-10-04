@@ -9,4 +9,5 @@ pubphrase: "Presented orally at"
 venue: '2025 Quantum Computing Applications in Economics and Finance Conference'
 paperurl: 'https://arxiv.org/abs/2502.15742'
 link: 'https://arxiv.org/abs/2502.15742'
+redirect_to: 'https://arxiv.org/abs/2502.15742'
 ---

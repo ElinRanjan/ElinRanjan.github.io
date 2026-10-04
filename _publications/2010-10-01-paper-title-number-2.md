@@ -9,4 +9,5 @@ pubphrase: "Preprint on"
 venue: "arXiv"
 paperurl: 'https://arxiv.org/abs/2511.13882'
 link: 'https://arxiv.org/abs/2511.13882'
+redirect_to: 'https://arxiv.org/abs/2511.13882'
 ---
