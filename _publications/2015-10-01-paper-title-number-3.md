@@ -8,4 +8,5 @@ date: 2026-03-01
 pubphrase: "Published in"
 venue: 'APL Computational Physics'
 paperurl: 'https://pubs.aip.org/aip/aco/article/2/1/010901/3378659'
+link: 'https://pubs.aip.org/aip/aco/article/2/1/010901/3378659'
 ---

@@ -9,4 +9,5 @@ date: 2026-05-11
 pubphrase: "Published in"
 venue: "IOP Quantum Science and Technology"
 paperurl: 'https://iopscience.iop.org/article/10.1088/2058-9565/aea2c6'
+link: 'https://iopscience.iop.org/article/10.1088/2058-9565/aea2c6'
 ---
