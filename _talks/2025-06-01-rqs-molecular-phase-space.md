@@ -8,4 +8,6 @@ date: 2025-06-01
 location: "Durham, NC, USA"
 ---
 
+![Poster presentation at the RQS Annual Workshop 2025](/images/RQS2025_Poster.jpg)
+
 Poster on a phase-space framework for the vibrational and electronic degrees of freedom of molecules, with applications to molecular quantum information.
