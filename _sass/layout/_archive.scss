@@ -66,6 +66,21 @@
   }
 }
 
+.archive__item-authors {
+  margin-bottom: 0.25em;
+  font-size: $type-size-6;
+}
+
+.archive__item-abstract {
+  margin-bottom: 1em;
+  font-size: $type-size-6;
+
+  summary {
+    cursor: pointer;
+    color: var(--global-link-color);
+  }
+}
+
 .archive__item-teaser {
   border-radius: $border-radius;
   overflow: hidden;

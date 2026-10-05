@@ -1,9 +1,11 @@
 ---
-title: "Contributed Talk on Quantum Computing using Molecules"
+title: "Quantum Theory of Molecular Phase Space: Vibrational and Electronic Degrees of Freedom"
 collection: talks
-type: "Talk"
-permalink: /talks/2012-03-01-talk-1
-venue: "Telluride Science and Innovation Center"
+type: "Contributed talk"
+permalink: /talks/2026-04-telluride-molecular-phase-space
+redirect_from:
+  - /talks/2012-03-01-talk-1
+venue: "Workshop on Quantum Computing for Quantum Chemistry, Molecular Dynamics, and Beyond, Telluride Science and Innovation Center"
 date: 2026-04-03
 location: "Telluride, CO, USA"
 ---

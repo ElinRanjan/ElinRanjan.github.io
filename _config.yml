@@ -12,7 +12,7 @@ site_theme               : "mint" # The available themes options are "default", 
 title                    : "Elin Ranjan Das"
 title_separator          : "-"
 name                     : &name "Elin Ranjan Das"
-description              : &description "My academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Elin Ranjan Das is a PhD student at NC State University and a research intern at Pacific Northwest National Laboratory working on quantum algorithms for scientific computing, quantum chemistry, and hybrid oscillator–qubit (CV–DV) quantum computing."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : "https://elinranjan.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,18 +24,18 @@ repository               : "ElinRanjan/ElinRanjan.github.io"
 author:
   # Biographic information
   avatar           : "head_shot.png"
-  name             : "About Me"
+  name             : "Elin Ranjan Das"
   pronouns         : "he/him"  
-  bio              : "PhD student in Electrical and Computer Engineering at NC State University."
+  bio              : "PhD student in Electrical Engineering at NC State University and research intern at Pacific Northwest National Laboratory."
   location         : "Raleigh, NC, US"
-  employer         : "NC State University"
+  employer         : "NC State University · PNNL"
   uri              : # URL
   email            : "edas@ncsu.edu" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=8Ew34FoAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=8Ew34FoAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "https://orcid.org/0009-0009-8690-1523"
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/elin-ranjan-das/"
+  linkedin         : "elin-ranjan-das"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -85,12 +85,12 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
+  journals:
+    title: 'Peer-Reviewed Publications'
+  under_review:
+    title: 'Under Review'
   preprints:
     title: 'Preprints'
-  journals:
-    title: 'Journal Articles'
-  conferences:
-    title: 'Conference Papers'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
@@ -144,14 +144,17 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Social media default site image
-og_description           :  # Social media default site image description
+og_image                 : "head_shot.png" # Social media default site image
+og_description           : "Quantum algorithms for scientific computing, quantum chemistry, and hybrid oscillator–qubit quantum computing." # Social media default site image description
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
+    - "https://scholar.google.com/citations?user=8Ew34FoAAAAJ"
+    - "https://orcid.org/0009-0009-8690-1523"
+    - "https://www.linkedin.com/in/elin-ranjan-das/"
 
 
 # Analytics

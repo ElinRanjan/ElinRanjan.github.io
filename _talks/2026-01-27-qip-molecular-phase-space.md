@@ -1,15 +1,15 @@
 ---
-title: "Poster Presentation at QIP 2026"
+title: "Quantum Theory of Molecular Phase Space: Vibrational and Electronic Degrees of Freedom"
 collection: talks
 type: "Poster"
 permalink: /talks/2026-01-27-qip-poster
-venue: "28th Conference on Quantum Information Processing (QIP 2026)"
+venue: "29th Annual Conference on Quantum Information Processing (QIP 2026)"
 date: 2026-01-27
 location: "Riga, Latvia"
 ---
 
 ![Poster](/images/QIP2026_Poster.jpg)
-In January 2026, I presented a poster at the 28th Conference on Quantum Information Processing (QIP 2026) in Riga, Latvia. The poster showcased my research on quantum theory for molecular phase-space formulation.
+In January 2026, I presented a poster at the 29th Conference on Quantum Information Processing (QIP 2026) in Riga, Latvia. The poster showcased my research on quantum theory for molecular phase-space formulation.
 
 This work investigates how phase-space methods can be utilized to efficiently encode quantum resource such as magic and entanglement onto molecules. The research aims to bridge concepts from quantum chemistry, quantum information science, and quantum simulation, providing new pathways for studying molecular systems as quantum computers.
 
