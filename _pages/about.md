@@ -26,7 +26,7 @@ News
 ======
 
 - **Nov 2026** — New preprint: [Symmetry classification of hyperfine rovibrational molecular phase space](https://arxiv.org/abs/2611.23406). Molecular symmetry by itself gives rise to absolutely maximally entangled states among rotation, nuclear spin, and vibration. [Read the blog post](/posts/2026/11/symmetry-classification-molecular-phase-space/).
-- **2026** — Our paper on [gate-level quantum simulation of nonunitary linear dynamics with hybrid oscillator–qubit architecture](https://doi.org/10.1088/2058-9565/aea2c6) was published in *Quantum Science and Technology*, and I presented it as a poster at the IEEE QCE 2026 SIPQ workshop in Toronto.
+- **2026** — Our paper on [gate-level quantum simulation of nonunitary linear dynamics with hybrid oscillator–qubit architecture](https://doi.org/10.1088/2058-9565/aea2c6) was published in *Quantum Science and Technology*, and I presented it as a poster at the IEEE QCE 2026 SIPQ workshop in Toronto. [Read the blog post](/posts/2026/11/hybrid-oscillator-qubit-nonunitary-dynamics/).
 - **Apr 2026** — Contributed talk on the quantum theory of molecular phase space at the Telluride workshop *Quantum Computing for Quantum Chemistry, Molecular Dynamics, and Beyond*.
 - **2026** — Our perspective on [block-encodings and polynomial transformations](https://doi.org/10.1063/5.0312254) for scalable quantum computational science was published in *APL Computational Physics*.
 - **Jan 2026** — Poster on the quantum theory of molecular phase space at QIP 2026 in Riga, Latvia.
